@@ -4,6 +4,8 @@ import Counter from './compenets/Counter';
 
 
 
+
+
 export class App extends Component {
 
 constructor(){
@@ -42,6 +44,15 @@ toggel=()=>{
             <p2>{person.bio}</p2>
             <img src={person.imgSrc} alt="Profile" />
             <p3>{person.profession}</p3>
+
+
+            
+
+
+
+
+
+
 
 
       </div>
